@@ -5,3 +5,17 @@ html, body, #root, .app{
     width: 100%;
     font-family: "Inter", sans-serif;
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background: #7a7f9d;
+}
+::-webkit-scrollbar-thumb{
+    background: #21295c;
+}
+::-webkit-scrollbar-track:hover{
+    background: 21295c;
+}
